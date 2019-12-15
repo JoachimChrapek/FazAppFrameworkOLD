@@ -6,7 +6,7 @@ namespace FazAppFramework
     {
         public const bool UseAdmob = true;
         public const bool TestAds = true;
-        public const string AdmobAppID = "ca-app-pub-3940256099942544~3347511713";
+        public const string AdmobAppID = "";
         public const bool UseBanner = false;
         public const string BannerID = "";
         public const string InterstitialID = "";
