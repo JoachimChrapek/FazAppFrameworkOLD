@@ -1,5 +1,6 @@
-NOTE: this is old version of this framework, first attempt.
-Checkout actual version here: 
+NOTE: this is old version of this framework, first attempt. 
+
+Check actual version here: https://github.com/JoachimChrapek/FazAppFramework
 
 
 # FazApp Framework
