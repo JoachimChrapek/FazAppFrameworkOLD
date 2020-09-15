@@ -1,3 +1,7 @@
+NOTE: this is old version of this framework, first attempt.
+Checkout actual version here: 
+
+
 # FazApp Framework
 Framework for development of F2P mobile games with pre-configured services: 
 - Firebase (Remote Config for own interstitials, notifications or analytics)
